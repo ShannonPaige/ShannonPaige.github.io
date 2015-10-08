@@ -10,12 +10,15 @@ h1 {
 h2 {
   font-family: 'Permanent Marker', cursive;, Arial, serif;
   font-size: 40px;
-  margin-bottom: 0;
+  margin: 0;
 }
-p,ul, div.columns p {
+p,ul {
   font-family: Arial, serif;
   font-size: 24px;
   opacity: 1.0;
+}
+li {
+  margin: 5px;
 }
 div.columns {
     width: 100%;
@@ -23,6 +26,7 @@ div.columns {
 div.columns div {
   width: 30%;
   float: left;
+  padding: 10px;
 }
 div.dark {
   background-color: black;
@@ -31,16 +35,8 @@ div.dark {
 div.clear {
   clear: both;
 }
-a {
+div.columns a, a:visited {
   color: #E61669;
   font-size: 24px;
   font-weight: bold;
-}
-a:visited {
-    color: #0066CC;
-    font-size:24px;
-    font-weight: bold;
-}
-li {
-  margin: 5px;
 }
