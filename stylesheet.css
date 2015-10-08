@@ -17,12 +17,19 @@ p,ul {
   font-size: 24px;
   font-weight: 400;
 }
-table {
+div.columns {
     width: 100%;
 }
-td {
-    height: 80px;
-    vertical-align: bottom;
+div.columns div {
+  width: 30%;
+}
+div.dark {
+  background-color: black;
+  opacity: 0.4;
+}
+div.light{
+  background-color: white;
+  opacity: 0.4;
 }
 a {
   color: #E61669;
