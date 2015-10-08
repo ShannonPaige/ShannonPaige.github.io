@@ -10,7 +10,7 @@ h1 {
 h2 {
   font-family: 'Permanent Marker', cursive;, Arial, serif;
   font-size: 40px;
-  font-weight: 400;
+  padding-bottom: -10px;
 }
 p,ul {
   Arial, serif;
@@ -25,7 +25,7 @@ td {
     vertical-align: bottom;
 }
 a {
-  color: #FF0066;
+  color: #E61669;
   font-size: 24px;
   font-weight: bold;
 }
