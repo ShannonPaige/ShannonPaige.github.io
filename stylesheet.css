@@ -17,13 +17,13 @@ p {
   font-size: 24px;
   font-weight: 400;
 }
-#left{
+.left{
     float:right;
     width:200px;
     height:500px;
 }
 
-#right{
+.right{
     margin-right: 200px;
     height:500px;
 }
