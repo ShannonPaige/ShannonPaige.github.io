@@ -17,13 +17,10 @@ p {
   font-size: 24px;
   font-weight: 400;
 }
-#left{
-    float:right;
-    width:200px;
-    height:500px;
+table {
+    width: 100%;
 }
-
-#right{
-    margin-right: 200px;
-    height:500px;
+td {
+    height: 50px;
+    vertical-align: bottom;
 }
