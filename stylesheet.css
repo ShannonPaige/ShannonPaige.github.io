@@ -34,3 +34,6 @@ a:visited {
     font-size:24px;
     font-weight: bold;
 }
+li {
+  margin: 5px;
+}
