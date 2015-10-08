@@ -14,8 +14,7 @@ h2 {
 }
 p,ul {
   font-family: Arial, serif;
-  font-size: 24px;
-  opacity: 1.0;
+  font-size: 20px;
 }
 li {
   margin: 5px;
@@ -38,5 +37,5 @@ div.columns a, a:visited {
 }
 div.columns .sites a, .sites a:visited {
   color: #B81254;
-  font-size: 14px;
+  font-size: 20px;
 }
