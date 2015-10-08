@@ -1,1 +1,10 @@
 
+body {
+  background: red;
+  background-image: url("https://cloud.githubusercontent.com/assets/12816548/10356765/c613ec44-6d37-11e5-83b7-c1daaff4e1c3.jpg")
+  }
+h1 {
+  font-family: 'Permanent Marker', cursive;, Arial, serif;
+  font-size: 40px;
+  font-weight: 400;
+}
