@@ -36,3 +36,7 @@ div.columns a, a:visited {
   font-size: 24px;
   font-weight: bold;
 }
+div.columns .sites a, .sites a:visited {
+  color: #B81254;
+  font-size: 14px;
+}
