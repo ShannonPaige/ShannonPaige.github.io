@@ -24,3 +24,9 @@ td {
     height: 50px;
     vertical-align: bottom;
 }
+a {
+  color: #FF0066
+}
+a:visited {
+    color: #CC99FF;
+}
